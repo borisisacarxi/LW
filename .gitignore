@@ -1,0 +1,9 @@
+/.env
+/venvLW/
+
+/website/static
+/website/static/
+*/static/
+
+/users/migrations/
+/website/migrations/
